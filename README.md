@@ -63,7 +63,7 @@ public:
 
 private:
 
-	virtual void Trigger(void* InData) override
+    virtual void Trigger(void* InData) override
     {
         // send event via http to remote service...?
     }
@@ -88,7 +88,7 @@ public:
 
 private:
 
-	virtual void Trigger(void* Data) override
+    virtual void Trigger(void* Data) override
     {
         if (Current >= Limit)
             return; // We reached the handling limit, don't invoke anymore.

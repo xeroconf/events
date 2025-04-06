@@ -1,9 +1,9 @@
 // =============================================================================
-// Dispatcher
+// Event System
 // =============================================================================
 // Description:
 //   A lightweight, header-only library providing a simple event system.
-//   Simply include this header file in your project to access the functionality.
+//   Simply include this header file in your project.
 //
 // License:
 //   MIT

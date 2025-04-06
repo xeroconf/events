@@ -1,5 +1,5 @@
 // =============================================================================
-// Event System
+// Event System - https://github.com/0conf/events
 // =============================================================================
 // Description:
 //   A lightweight, header-only library providing a simple event system.
@@ -9,7 +9,7 @@
 //   MIT
 //
 // Author(s):
-//   aufority
+//   https://github.com/0conf
 //
 // Version:
 //   1.0.0

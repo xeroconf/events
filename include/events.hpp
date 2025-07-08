@@ -9,7 +9,7 @@
 //   MIT
 //
 // Author(s):
-//   https://github.com/0conf
+//   https://github.com/xeroconf
 //
 // Version:
 //   1.0.0

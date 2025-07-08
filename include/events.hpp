@@ -277,7 +277,7 @@ namespace aufority
                     InEventHandle,
                     std::make_shared<RawEventProcessor>
                     (
-                        [InHandlerFunc = std::move(InHandlerFunc)](void* InEventData) //mutable 
+                        [InHandlerFunc = std::move(InHandlerFunc)](void* InEventData)
                         {
                             EventType& Ev = *static_cast<EventType*>(InEventData);
                             InHandlerFunc(Ev);

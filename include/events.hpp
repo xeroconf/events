@@ -1,5 +1,5 @@
 // =============================================================================
-// Event System - https://github.com/0conf/events
+// Event System - https://github.com/xeroconf/events
 // =============================================================================
 // Description:
 //   A lightweight, header-only library providing a simple event system.

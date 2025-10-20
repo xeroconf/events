@@ -1,6 +1,9 @@
 
+# Archived 20/10/2025
+New repo can be found here: https://github.com/xeroconf/messenger
+
 # Events
-A simple header only, compile time event system with modern C++.
+A simple header only, compile time event system.
 
 ## Usage/Example
 
